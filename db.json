@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Pad Thai",
+      "username": "Thai",
+      "email": "820 Kcal"
+    },
+    {
+      "id": 2,
+      "name": "Tomato Pasta",
+      "username": "Italian",
+      "email": "650 Kcal"
+    },
+    {
+      "id": 3,
+      "name": "Oriental Salad",
+      "username": "Fusion",
+      "email": "300 Kcal"
+    },
+    {
+      "id": 4,
+      "name": "된장국",
+      "username": "Korean",
+      "email": "732 Kcal"
+    },
+    {
+      "id": 5,
+      "name": "고등어구이",
+      "username": "한식",
+      "email": "457 Kcal"
+    }
+]
