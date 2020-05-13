@@ -1,32 +1,17 @@
-[
-    {
-      "id": 1,
-      "name": "Pad Thai",
-      "username": "Thai",
-      "email": "820 Kcal"
-    },
-    {
-      "id": 2,
-      "name": "Tomato Pasta",
-      "username": "Italian",
-      "email": "650 Kcal"
-    },
-    {
-      "id": 3,
-      "name": "Oriental Salad",
-      "username": "Fusion",
-      "email": "300 Kcal"
-    },
-    {
-      "id": 4,
-      "name": "된장국",
-      "username": "Korean",
-      "email": "732 Kcal"
-    },
-    {
-      "id": 5,
-      "name": "고등어구이",
-      "username": "한식",
-      "email": "457 Kcal"
-    }
-]
+{
+  "food": [
+    { "id": 1, "name": "Pad Thai","username": "Thai", "email": "999 Kcal" },
+    { "id": 2, "name": "Tomato Pasta","username": "Italian", "email": "800 Kcal" },
+    { "id": 3, "name": "Cream Pasta","username": "Korean", "email": "723 Kcal" },
+    { "id": 4, "name": "된장국","username": "Korean", "email": "600 Kcal" },
+    { "id": 5, "name": "김밥","username": "한식", "email": "543 Kcal" },
+    { "id": 6, "name": "Korean Curry","username": "한식", "email": "300 Kcal" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
